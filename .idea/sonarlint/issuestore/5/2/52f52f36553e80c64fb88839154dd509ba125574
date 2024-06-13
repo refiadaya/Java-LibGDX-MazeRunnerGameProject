@@ -1,0 +1,41 @@
+
+¶
+java:S1319Ä"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¹ó üùÿÿÿÿ8óÖ«‡2J$937f703f-bd60-4748-971f-2d17f22c3607
+…
+java:S1192t"IDefine a constant instead of duplicating this literal "filePath" 3 times.(¤ÌùƒJ$4baa0b66-e647-4700-adb7-c733ae3bc4cb
+‹	java:S116D"PRename this field "Speed" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Êª™J$28406abd-c76e-4ae5-a1ef-54dcd8bb3998
+¾
+java:S1186á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ü³ÍJ$e33d56c0-9c0b-4996-9276-0d8bd2db0f7f
+Ã
+java:S1186é"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(µ·öÅûÿÿÿÿJ$cc397746-4747-48a6-9b62-642bef8e34c7
+Ã
+java:S1186¾"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ğ£²¾ÿÿÿÿÿJ$6f98222f-1f79-449b-a719-be813e0b1522
+Ã
+java:S1186Æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹ÏƒıÿÿÿÿJ$d0d185ef-ab4c-4021-94a4-79e81dbb91e0
+
+java:S16592"NDeclare "keyCollectedSound" and all following declarations on a separate line.(êˆÕßÿÿÿÿÿJ$fb52b60a-a647-47a5-8837-45726bc39514
+…
+java:S1659K"DDeclare "playerU" and all following declarations on a separate line.(ÏÅÚúÿÿÿÿJ$e9edd8c4-70e1-4555-9279-1259516cebc7
+
+java:S3776©"SRefactor this method to reduce its Cognitive Complexity from 132 to the 15 allowed.(Üç§™J$f4381d6c-f0a2-4c86-94b4-77423bbc49ed
+}	java:S125Ì"<This block of commented-out lines of code should be removed.(šêÇøÿÿÿÿJ$05404dcf-7d74-44d6-b428-163f496b8f6c
+
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÀİìJ$e058bbfa-3179-40ee-84c9-5b3b5b914780
+ˆ
+java:S6201‡"DReplace this instanceof check and cast with 'instanceof Enemy enemy'(ÜàÛì8ş×«‡2J$395f1b56-944f-4e10-ba07-648fba6484c2
+ˆ
+java:S6201‡"DReplace this instanceof check and cast with 'instanceof Enemy enemy'(ÜàÛì8ÿ×«‡2J$11ae593e-b7fc-4c42-8c64-108e94ff2ab5
+ˆ
+java:S6201‡"DReplace this instanceof check and cast with 'instanceof Enemy enemy'(ÜàÛì8ÿ×«‡2J$f3eeb49c-256c-4791-b216-57c1f1719584
+†
+java:S6201"BReplace this instanceof check and cast with 'instanceof Exit exit'(ÇÎû8Ø«‡2J$fc9f27f1-ad50-4ce5-a00c-b6cdba487182
+ˆ
+java:S6201"DReplace this instanceof check and cast with 'instanceof Entry entry'(§ŞÂç8‚Ø«‡2J$2a35c2fc-db30-44dd-be22-a5beda8f8c56
+ƒ
+java:S6201"@Replace this instanceof check and cast with 'instanceof Key key'(¾È²78…Ø«‡2J$01d72ce3-0ccd-4d86-84b9-438dc5d0aafd
+†
+java:S6201 "BReplace this instanceof check and cast with 'instanceof Trap trap'(Åš¼Í8…Ø«‡2J$c2bbbb03-beb6-4f6e-94a7-152f8a7d35ee
+†
+java:S6201£"BReplace this instanceof check and cast with 'instanceof Wall wall'(ŒøáÚ8…Ø«‡2J$04fe242d-f719-473d-984b-a4d1efe854a7
+„
+java:S6541©"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 219 to 64, Complexity from 78 to 14, Nesting Level from 5 to 2, Number of Variables from 17 to 6.(Üç§™J$345b256b-daa5-4a5c-8e45-2ec882ff4f16

@@ -1,0 +1,5 @@
+include 'desktop', 'core'
+include 'core:objects'
+findProject(':core:objects')?.name = 'objects'
+include 'objects'
+
